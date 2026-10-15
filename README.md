@@ -3,4 +3,4 @@ The following code takes a CSV file containing a relationship list (also known a
 
 To view the **R** code and detailed instructions, visit:
 
-[See the Code and Instructions](https://innerhaze.github.io/Converting-a-Relationship-List-to-Distance-Matrices/)
+[See the Code and Instructions](https://innerhaze.github.io/relationship-to-distance-matrix/)
